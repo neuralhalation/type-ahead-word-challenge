@@ -15,8 +15,8 @@ Main Libraries Used
 What you will need
 ##################
 
-You will need your own `env.js` file in the `src` directory 
-that contains a `const` called `keys` and then nodes for your 
+You will need your own :code:`env.js` file in the :code:`src` directory 
+that contains a :code:`const` called :code:`keys` and then nodes for your 
 endpoints and Merriam-Webster keys.
 
 It should end up looking something like:
