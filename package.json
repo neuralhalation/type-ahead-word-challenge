@@ -27,11 +27,11 @@
     "fetch": "^1.1.0",
     "fetch-api": "0.0.2",
     "lad": "^1.0.3",
-    "oxford-dictionary": "^1.5.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "^3.3.0",
-    "rxjs": "^6.5.3"
+    "rxjs": "^6.5.3",
+    "typeface-roboto": "0.0.75"
   },
   "browserslist": {
     "production": [
@@ -44,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "prettier": "1.19.1"
   }
 }
