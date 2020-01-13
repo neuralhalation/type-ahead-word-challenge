@@ -15,7 +15,9 @@ Main Libraries Used
 What you will need
 ##################
 
-You will need your own :code:`env.js` file in the :code:`src` directory 
+Make sure to :code:`npm i` first.
+
+Then you will need your own :code:`env.js` file in the :code:`src` directory 
 that contains a :code:`const` called :code:`keys` and then nodes for your 
 endpoints and Merriam-Webster keys.
 
@@ -29,6 +31,9 @@ It should end up looking something like:
     merriamWebsterDictApi: 'https://www.dictionaryapi.com/api/v3/references/collegiate/json/',
     merriamWebsterThesApi: 'https://www.dictionaryapi.com/api/v3/references/thesaurus/json/'
    }
+   
+   
+You can acquire keys from `here https://dictionaryapi.com/`_. 
 
 
 Haiku
