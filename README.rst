@@ -12,7 +12,7 @@ Main Libraries Used
 | ``material-ui``
 
 
-What you will need
+What You Will Need
 ##################
 
 Make sure to :code:`npm i` first.
