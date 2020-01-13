@@ -33,7 +33,7 @@ It should end up looking something like:
    }
    
    
-You can acquire keys from `here <https://dictionaryapi.com/>`_. 
+You can acquire API keys  `here <https://dictionaryapi.com/>`_. 
 
 
 Haiku
