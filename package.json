@@ -29,7 +29,7 @@
     "lad": "^1.0.3",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "^3.3.0",
+    "react-scripts": "^5.0.1",
     "rxjs": "^6.5.3",
     "typeface-roboto": "0.0.75"
   },
